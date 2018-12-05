@@ -1,11 +1,11 @@
 body{
   text-align: center;
-  background-color: gray;
+  background-color: red;
 }
 img {
   width: 500px;
-  border-color:black;
-  border-style: ridge;
+  border-color: black;
+  border-style:ridge;
   border-width: 5px;
 }
 h1 {
@@ -14,26 +14,14 @@ h1 {
 h2 {
   font-size: 40px;
 }
+
 h5 {
   font-size: 15px;
-} 
+}
 
-.winter {
+.food {
   color: rgb(195,230,255);
-  font-family: monospace; 
 } 
 
-.spring {
-  color: rgb(236,222,106);
-  font-family: cursive;  
-}
-
-.summer {
-  color: rgb(234,128,158);
-  font-family: sans-serif;
-}
-
-.fall {
-  color: rgb(61,172,83);
-  font-family: inherit;
+.dessert {
 }
